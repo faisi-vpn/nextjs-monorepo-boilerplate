@@ -1,0 +1,47 @@
+@import "../../colorvariable.scss";
+
+.label-status {
+	padding: 0.8rem 1.2rem;
+	border-radius: 0.8rem;
+	display: flex;
+	align-items: center;
+	gap: 0.8rem;
+
+	&__text {
+		&-active {
+			color: $success-500;
+		}
+
+		&-inactive {
+			color: $error-500;
+		}
+
+		&-draft {
+			color: $gray-600;
+		}
+		&-warning {
+			color: $secondary-500;
+		}
+		&-orange {
+			color: $white-color;
+		}
+	}
+
+	&-active {
+		background: rgba(7, 210, 0, 0.1);
+	}
+
+	&-inactive {
+		background: $error-50;
+	}
+
+	&-draft {
+		background: $gray-300;
+	}
+	&-warning {
+		background: $secondary-orange-50;
+	}
+	&-orange {
+		background: $secondary-500;
+	}
+}

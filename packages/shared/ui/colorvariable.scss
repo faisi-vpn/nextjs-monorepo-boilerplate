@@ -1,0 +1,211 @@
+// Setup New Color for EASY MAINTENANCE
+
+$primary-800: #060d18;
+$primary-600: #0d429c;
+$primary-500: #0e49ab;
+$primary-400: #475d80;
+$primary-200: #90abd8;
+$primary-100: #d1d7df;
+$primary-50: #e7edf7;
+$primary-shadow: #b4c7e5;
+
+$secondary-800: #8b5304;
+$secondary-600: #e58906;
+$secondary-500: #fc9607;
+$secondary-400: #fdab39;
+$scondary-200: #fecf8d;
+$secondary-100: #fef0c7;
+$secondary-orange-50: #fff5e6;
+$secondary-50: rgba(255, 129, 0, 0.2);
+$secondary-shadow: #fedeb2;
+
+$success-500: rgba(18, 183, 106, 1);
+$success-50: rgba(7, 210, 0, 0.1);
+
+$error-800: #912018;
+$error-600: #d92d20;
+$error-500: #f04438;
+$error-400: #f97066;
+$error-200: #fecdca;
+$error-100: #fee4e2;
+$error-50: #fef3f2;
+$error-shadow: #fecdca;
+$gray-300: #d0d5dd;
+$gray-600: #475467;
+$gray-500: #667085;
+$gray-400: #98a2b3;
+$gray-100: #f2f4f7;
+$gray-200: #eaecf0;
+$gray-50: #f9fafb;
+$gray-shadow: #eaecf0;
+$navy-blue-500: #193560;
+
+// End Setup New Color for EASY MAINTENANCE
+
+$bgColor: #f8f8f8;
+$bg-content: rgba(221, 225, 227, 0);
+$bg-icon: #a6b5b8;
+$bg-progress-bar: #f2f4f7;
+$bg-primary-transparent: #e7edf7;
+$bg-warning-transparent: #fff5e6;
+$color-placeholder: #98a2b3;
+$icon-active: #a6b5b8;
+$color-icon: #667085;
+$label-color: #3c3c43;
+$label-text-black: #1d2939;
+
+$icon-shaddow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+
+$icon-size: 39px;
+$cirle-radius: 180px;
+$borderColor: #c8c8c8;
+$fillLightGray: #e2e2e2;
+
+$themeBlue: #488bff;
+$greenColor: #49eb9f;
+$grayColor: #f2f2f2;
+$fadedThemeColor: #7aabff;
+$yellowColor: #ffd753;
+$labelOne: #11a0be;
+$labelTwo: #594ef5;
+$labelThree: #56be11;
+$labelFour: #eb6043;
+$labelFive: #18f3a1;
+$warningColor: #dc6803;
+
+$greenActionColor: #49ee8b;
+$darkGreenColor: #03c62a;
+$lightGrayActionColor: #ababab;
+
+$white-color: #fff;
+$border-color: #bbb;
+$tripleSeventy: #707070;
+$color-green: #00d215;
+$color-white: #fff;
+$Colorshadow: 0 0 3px rgba(0, 0, 0, 0.35);
+$deepShadow: 0 3px 8px rgba(0, 0, 0, 0.16);
+$lightShadow: -1px 1px 2px 0px rgba(78, 78, 78, 0.021);
+
+$table-color: var(--themeBlue);
+$striped-light: #ffffff;
+$striped-dark: #f8f8f8;
+$inputBoxBg: #f1f1f1;
+$notificationColor: #6258ed;
+$switchBaseColor: #dedede;
+$arrowBg: #a4b6b8;
+$accordianColorChapter: #e7eced;
+$uploaderTextColor: #919191;
+$announcementLightGray: #aeaeae;
+$tripleAB: #a8a8a8;
+
+// this is new color pallet for new themes
+
+$bg-container: #f2f7ff;
+$blue-primary: #034aa6;
+$active: #4f92ea;
+$line-header: #e3edfd;
+
+$select-filter-border: #f7f8f8;
+
+// BG color for empty state (Evaluation Format, Independent)
+$bg-empty-state: #f2f7ff;
+
+// left navigation style
+$bg-icon: #4e90e7;
+
+// color hover
+$hover-color: #f2f7ff;
+// color label
+$border-color: #b7d6ff;
+$label-color-orange: #feaf43;
+$label-color-red: #f05974;
+$label-color-blue-ocen: #36bfd7;
+$label-color-gray: #bec4cf;
+$label-color-blue: #193560;
+$label-color-green: #1abf73;
+$label-color-purple: #7027a5;
+$label-color-dark-gray: #676869;
+$label-color-dark-gray-2: #232230;
+$label-color-pink: #ff0578;
+$label-color-dark-blue: #056cf2;
+
+// =========================
+// New Color Pallet===========
+
+// Backgraund primary
+$bg-blue: #034aa6;
+$bg-dark-blue: #204f8d;
+$bg-light-blue: #056cf2;
+$bg-orange: #f24822;
+$bg-light: #f2f7ff;
+$bg-White: #ffffff;
+$bg-primary-dark-blue: #0e49ab;
+$bg-primary: #193560;
+$bg-primary-hover: #475d80;
+
+// backgraund Secondary
+$bg-second-orange: #feaf43;
+$bg-second-red: #f05974;
+$bg-second-blue: #36bfd7;
+$bg-second-green: #1abf73;
+$bg-second-gray: #bec4cf;
+$bg-second-light: #f2f2f2;
+
+// Light Color
+$light-orange: #fff0de;
+$light-green: #d2fbfc;
+$light-dark-green: #e3f4fe;
+$light-red: #fef5f5;
+
+// workbook wiki color
+$blue_light: #f7fcff;
+$green_light: #f1fff9;
+$grey_light: #f7f7f7;
+$orange_light: #fff9f1;
+
+$bg-shadow: 0 0 3px rgba(0, 0, 0, 0.35);
+
+$text-black: #1d2939;
+
+// Button Color
+$btn-primary-default: #193560;
+$btn-primary-hover: #475d80;
+$btn-primary-disable: #a3aebf;
+$btn-secondary-default: #fc9607;
+$btn-secondary-hover: #e58906;
+$btn-secondary-disable: #fecf8d;
+$btn-error-default: #f04438;
+$btn-error-50: #fef3f2;
+$btn-error-hover: #d92d20;
+$btn-error-disable: #fecdca;
+$btn-text-gray-hover: #475467;
+$btn-text-gray-default: #667085;
+$btn-text-gray-disable: #eaecf0;
+
+$btn-outline-hover: #f2f4f7;
+$btn-outline-hover-secondary: #fedeb2;
+$btn-outline-text-disable: #5e85c7;
+
+$btn-filter-outline-hover: #7586a0;
+
+// Input Field
+$border-input: #ccdaef;
+$border-bottom-dropdown: #d0d5dd;
+$bg-input-disable: #f9fafb;
+
+// Icon Color
+$icon-error: #fee4e2;
+$icon-warning: #fef0c7;
+$icon-success: #d1fadf;
+
+// Pagination
+$color-pagination-arrow: #344054;
+$color-pagination-number: #344054;
+
+// Homepage
+$home-title-color: #101828;
+
+// ModalInfo
+$success-color: #32d583;
+$success-background: #ecfdf3;
+$error-color: #f97066;

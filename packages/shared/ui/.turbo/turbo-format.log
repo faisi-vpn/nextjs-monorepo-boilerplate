@@ -1,0 +1,16 @@
+
+> ui@1.0.0 format
+> eslint --fix --ext .js,.jsx .
+
+
+Oops! Something went wrong! :(
+
+ESLint: 7.32.0
+
+No files matching the pattern "." were found.
+Please check for typing mistakes in the pattern.
+
+npm ERR! Lifecycle script `format` failed with error: 
+npm ERR! Error: command failed 
+npm ERR!   in workspace: ui@1.0.0 
+npm ERR!   at location: C:\Users\Faisi\Documents\personal\nextjs-monorepo-boilerplate\packages\shared\ui 
